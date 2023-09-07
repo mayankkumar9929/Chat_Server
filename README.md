@@ -62,10 +62,7 @@ removing clients from the chat room for proper synchronization.
 The client can exit the chat room by typing “#exit”. 
 
 Entry and Exit of clients is color coded.
-## Video Demo
 
-
-https://user-images.githubusercontent.com/107770107/174855327-a3e68c72-6616-4c26-bfa9-71a2de97a5ad.mp4
 
 
 ## References
